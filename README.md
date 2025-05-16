@@ -53,6 +53,8 @@
   ### Cache
   <!--Redis-->
   <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white"/>
+  <!--Elastic-->
+  <img src="https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white"/>
 
   ### Monitoring
   <!-- Datadog -->
