@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <!--Typescript-->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=ts-node&logoColor=white"/>
+  <!--PHP-->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   
   ### Infra
   <!--Amazon AWS-->
