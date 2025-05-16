@@ -37,9 +37,9 @@
 
   ### Monitoring
   <!-- Datadog -->
-  <img src="https://img.shields.io/badge/-DataDog-#632CA6?logo=datadog">
+  <img src="https://img.shields.io/badge/-DataDog-#632CA6?logo=datadog&logoColor=white">
   <!-- NewRelic -->
-  <img src="https://img.shields.io/badge/-NewRelic-1CE783?logo=newrelic">
+  <img src="https://img.shields.io/badge/-NewRelic-1CE783?logo=newrelic&logoColor=white">
   
   
   ## 🤔 Github Stats
