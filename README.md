@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### 🙋 I am a Devops Engineer from South Korea.<br/>
-  #### 💻 I was FrontEnd, Backend, and Now is Devops Engineer.<br/>
+  #### 💻 I was FrontEnd, Backend Developer. and Now is Devops Engineer.<br/>
   #### ☁️ I like Make IaC Code (Terraform) and Manage Cloud Resource than Develop a Code
   #### 💬 I'm interest in Automate Infra and Automate Make Youtube Content using TTS, text to Video
   #### 🎤 I'm AWS Community Builder Since 2025 (Container)
