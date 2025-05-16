@@ -1,4 +1,6 @@
+<div>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=300&section=header&text=Welcome World 👋)
+</div>
 <!--
 **niceguy61/niceguy61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
