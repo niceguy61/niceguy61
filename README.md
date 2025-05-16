@@ -29,12 +29,14 @@
   ### Infra
   <!--Amazon AWS-->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+  <!--Terraform-->
+  <img src="https://img.shields.io/badge/AWS-844FBA?style=flat&logo=terraform&logoColor=white"/>
   
 
   ### Monitoring
   <!-- Datadog -->
-  <img src="https://img.shields.io/badge/-DataDog-000?logo=datadog">
-  <!-- Datadog -->
+  <img src="https://img.shields.io/badge/-DataDog-#632CA6?logo=datadog">
+  <!-- NewRelic -->
   <img src="https://img.shields.io/badge/-NewRelic-1CE783?logo=newrelic">
   
   
