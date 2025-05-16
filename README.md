@@ -15,7 +15,7 @@
   #### 💬 I'm interest in Automate Infra and Automate Make Youtube Content using TTS, text to Video
   #### 🎤 I'm AWS Community Builder Since 2025 (Container)
   #### ✔️ I have a 8 AWS Certified (CLF, SAA, SAP, SOA, DVA, DOP, SCS, DEA)
-  #### 👯 I'm Organizer of AWSKRUG (Certified Channel)
+  #### 👯 I'm Organizer of AWSKRUG (AWS Korea User Group)
   #### 😎 I'm a Vibe Coder with Amazon Q Developer
   <br/>
   <br/>
