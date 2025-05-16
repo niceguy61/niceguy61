@@ -35,7 +35,14 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
   <!--Terraform-->
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white"/>
-  
+
+  ### Database
+  <!--MySQL-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <!--MariaDB-->
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+  <!--Redis-->
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white"/>
 
   ### Monitoring
   <!-- Datadog -->
