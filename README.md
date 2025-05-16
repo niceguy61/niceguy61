@@ -12,8 +12,10 @@
   #### 🙋 I am a Devops Engineer from South Korea.<br/>
   #### 💻 I was FrontEnd, Backend, and Now is Devops Engineer.<br/>
   #### ☁️ I like Make IaC Code (Terraform) and Manage Cloud Resource than Develop a Code
-  #### 🎤 I'm interest in Automate Infra and Automate Make Youtube Content using TTS, text to Video
+  #### 💬 I'm interest in Automate Infra and Automate Make Youtube Content using TTS, text to Video
   #### 🎤 I'm AWS Community Builder Since 2025 (Container)
+  #### ✔️ I have a 8 AWS Certified (CLF, SAA, SAP, SOA, DVA, DOP, SCS, DEA)
+  #### 👯 I'm Organizer of AWSKRUG (Certified Channel)
   <br/>
   <br/>
   
@@ -36,9 +38,9 @@
   
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niceguy61)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niceguy61)](https://github.com/niceguy61)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niceguy61)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niceguy61)](https://github.com/niceguy61)
   
 </div>
 
