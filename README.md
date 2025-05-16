@@ -34,7 +34,8 @@
   ### Monitoring
   <!-- Datadog -->
   <img src="https://img.shields.io/badge/-DataDog-000?logo=datadog">
-  And New Relic
+  <!-- Datadog -->
+  <img src="https://img.shields.io/badge/-NewRelic-1CE783?logo=newrelic">
   
   
   ## 🤔 Github Stats
