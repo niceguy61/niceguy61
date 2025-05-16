@@ -13,6 +13,7 @@
   #### 💻 I was FrontEnd, Backend, and Now is Devops Engineer.<br/>
   #### ☁️ I like Make IaC Code (Terraform) and Manage Cloud Resource than Develop a Code
   #### 🎤 I'm interest in Automate Infra and Automate Make Youtube Content using TTS, text to Video
+  #### 🎤 I'm AWS Community Builder Since 2025 (Container)
   <br/>
   <br/>
   
@@ -25,7 +26,8 @@
   
   ### Infra
   <!--Amazon AWS-->
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+  
 
   ### Monitoring
   <!-- Datadog -->
