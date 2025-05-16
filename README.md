@@ -16,6 +16,7 @@
   #### 🎤 I'm AWS Community Builder Since 2025 (Container)
   #### ✔️ I have a 8 AWS Certified (CLF, SAA, SAP, SOA, DVA, DOP, SCS, DEA)
   #### 👯 I'm Organizer of AWSKRUG (Certified Channel)
+  #### 😎 I'm a Vibe Coder with Amazon Q Developer
   <br/>
   <br/>
   
