@@ -30,7 +30,7 @@
   <!--Amazon AWS-->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
   <!--Terraform-->
-  <img src="https://img.shields.io/badge/AWS-844FBA?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white"/>
   
 
   ### Monitoring
